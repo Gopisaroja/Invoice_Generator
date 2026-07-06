@@ -76,7 +76,7 @@ The repository includes:
 
 ## 👨‍💻 Author
 
-**Gopi**
+**Gopisaroja G**
 
 Built with Python as a portfolio project to practice PDF generation, automation, and clean invoice design.
 
